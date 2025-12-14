@@ -1,4 +1,4 @@
-Loan Performance & Risk Analysis
+**Loan Performance & Risk Analysis**
 
 This project presents a comprehensive analysis of loan performance and risk factors using the given dataset. The study was conducted in two phases—Loan Performance Analysis and Risk Analysis—with dashboards developed for both. The findings aim to highlight borrower behavior, portfolio health, and actionable recommendations for improving loan management strategies.
 
