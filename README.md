@@ -188,7 +188,7 @@ Visuals:
 
 📊 Scatter Plot → Loan Amount vs Credit Score (flat line showing negligible correlation).
 
-
+![Image](https://github.com/user-attachments/assets/31f78750-1f92-4b03-aa81-7aee634e10c3)
 ---
 
 B. Risk Analysis Dashboard
@@ -221,6 +221,7 @@ Visuals:
 📊 Waterfall Chart → Outstanding → Recovered → Loss (visualizing gaps).
 
 
+![Image](https://github.com/user-attachments/assets/c2b6be0d-970e-4f41-9a9b-3d6a639e08e7)
 
 ---
 
